@@ -1,7 +1,13 @@
-# Geekbrains сервис для создания конспектов
+# Product for creating glossary from recorded lecture
 
 ## Demo 
 https://bobs-ai.ru
+
+Dream team
+![image](https://github.com/boldirev-as/digitalhack-msk/assets/60057518/a090c2d1-8afb-4864-ab2c-9c6ed53ecae8)
+
+
+
 
 ## Запуск решения
 1) Укажите env переменные, как в .env.example файле
