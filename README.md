@@ -3,6 +3,9 @@
 ## Demo 
 https://bobs-ai.ru
 
+![image](https://github.com/boldirev-as/digitalhack-msk/assets/60057518/f8e1d45c-462d-4d93-97df-c19a956e293e)
+
+
 Dream team
 ![image](https://github.com/boldirev-as/digitalhack-msk/assets/60057518/a090c2d1-8afb-4864-ab2c-9c6ed53ecae8)
 
